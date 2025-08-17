@@ -1,0 +1,12 @@
+#+title: Thinking
+
+
+
+
+* Why there is a empty sturct attached to clients
+* Why the broadcast function as a filter , is that a function pointer ?
+* in the DeliveryHUb why the type has struct{}
+* What is the difference between Mutex and RMutex ?
+
+* What is Sync.Map ?
+* why are we doing v.(*DeliveryHUb) is that type casting
